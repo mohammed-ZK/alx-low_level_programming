@@ -5,9 +5,9 @@
 /**
  * main - Entry point
  *
- * description: flase or true value
+ * Description: flase or true value
  *
- * return 0 to (success)
+ * Return: 0 to (success)
 */
 
 int main(void)
